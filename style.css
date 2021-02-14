@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body header h1{
+    text-align: center;
+    box-shadow: 2px 3px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px
+}
+
+/* .container{
+    display: flex;
+    justify-content: space-around;
+} */
+
+.containeroftab{
+    background: rgba(8, 25, 255);
+    padding: 20px 0px;
+    box-shadow: 2px 3px rgba(8, 25, 255, 0.411);
+}
+.nameoftabl{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    
+}
+.nameoftablsm{
+    
+    color: white;
+    text-align: center;
+    font-size: larger;
+
+}
