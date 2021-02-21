@@ -1,11 +1,7 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+
 body header h1{
     text-align: center;
     box-shadow: 2px 3px rgba(0, 0, 0, 0.1);
-    margin-bottom: 30px
 }
 
 /* .container{
@@ -14,6 +10,7 @@ body header h1{
 } */
 
 .containeroftab{
+    margin-top:14px;
     background: rgba(8, 25, 255);
     padding: 20px 0px;
     box-shadow: 2px 3px rgba(8, 25, 255, 0.411);
@@ -31,7 +28,10 @@ body header h1{
     font-size: larger;
 
 }
-a{
-    color: white;
-    text-decoration: none;
+.link{
+    text-decoration:none;
 }
+
+
+
+
