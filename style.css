@@ -31,3 +31,7 @@ body header h1{
     font-size: larger;
 
 }
+a{
+    color: white;
+    text-decoration: none;
+}
